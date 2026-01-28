@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayesh  
 
-### 🎓 Undergraduate Software Engineer | 💻 Full-Stack Developer | 🌱 Tech Enthusiast  
+### 🎓 Undergraduate Software Engineer | 💻 Full-Stack and Mobile Application Developer | 🌱 Tech Enthusiast  
 
 ---
 
